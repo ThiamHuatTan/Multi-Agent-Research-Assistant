@@ -1,0 +1,6 @@
+python -m venv .myenv
+.myenv\Scripts\activate
+
+pip install -r requirements.txt
+
+python research_assistant_improved.py
